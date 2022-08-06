@@ -1,22 +1,22 @@
-# Getting Started with Create React App
+# Começando com Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
-## About project
+## Sobre o projeto
 
-This repository was created in order to show how we can create a frontend application with reusable components.
+Este repositório foi criado para mostrar como podemos criar uma aplicação frontend com componentes reutilizáveis.
 
-We will create an application using the github public api.
+Vamos criar um aplicativo usando a API pública do github.
 
-### Features
+### Características
 
-- Search infos by username
-- Search repo by username
-- Search starred by username
+- Pesquise informações por nome de usuário
+- Pesquisar repositório por nome de usuário
+- Pesquisa com estrela por nome de usuário
 
-### Preview
+### Visualizar
 
-Print of the finished project.
+Impressão do projeto finalizado.
 
 ![plot](./image/snapshot-1.png)
 
